@@ -4,4 +4,4 @@ Note that this toothbrush is totally safe to use for children, adults, pets, wil
 
 I'm adding a new note to try out tags!
 
-And another line, which I will delete soon.
+The toothbrush requires [need info here].
